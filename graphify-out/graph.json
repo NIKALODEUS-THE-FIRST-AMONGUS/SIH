@@ -1,0 +1,1206 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "vite.config.js",
+      "source_location": "L1",
+      "id": "vite_config_js",
+      "community": 12,
+      "norm_label": "vite.config.js"
+    },
+    {
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "src/App.jsx",
+      "source_location": "L1",
+      "id": "src_app_jsx",
+      "community": 6,
+      "norm_label": "app.jsx"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "src/App.jsx",
+      "source_location": "L12",
+      "id": "src_app_app",
+      "community": 6,
+      "norm_label": "app()"
+    },
+    {
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "src/main.jsx",
+      "source_location": "L1",
+      "id": "src_main_jsx",
+      "community": 13,
+      "norm_label": "main.jsx"
+    },
+    {
+      "label": "AtmosphereVFX.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/AtmosphereVFX.js",
+      "source_location": "L1",
+      "id": "src_components_3d_atmospherevfx_js",
+      "community": 0,
+      "norm_label": "atmospherevfx.js"
+    },
+    {
+      "label": "createAtmosphere()",
+      "file_type": "code",
+      "source_file": "src/components/3d/AtmosphereVFX.js",
+      "source_location": "L11",
+      "id": "3d_atmospherevfx_createatmosphere",
+      "community": 0,
+      "norm_label": "createatmosphere()"
+    },
+    {
+      "label": "AutonomousBuoyVFX.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L1",
+      "id": "src_components_3d_autonomousbuoyvfx_js",
+      "community": 1,
+      "norm_label": "autonomousbuoyvfx.js"
+    },
+    {
+      "label": "createAutonomousBuoy()",
+      "file_type": "code",
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L16",
+      "id": "3d_autonomousbuoyvfx_createautonomousbuoy",
+      "community": 1,
+      "norm_label": "createautonomousbuoy()"
+    },
+    {
+      "label": "BharatiStationVFX.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/BharatiStationVFX.js",
+      "source_location": "L1",
+      "id": "src_components_3d_bharatistationvfx_js",
+      "community": 2,
+      "norm_label": "bharatistationvfx.js"
+    },
+    {
+      "label": "createBharatiStation()",
+      "file_type": "code",
+      "source_file": "src/components/3d/BharatiStationVFX.js",
+      "source_location": "L16",
+      "id": "3d_bharatistationvfx_createbharatistation",
+      "community": 2,
+      "norm_label": "createbharatistation()"
+    },
+    {
+      "label": "BiologgerSealVFX.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/BiologgerSealVFX.js",
+      "source_location": "L1",
+      "id": "src_components_3d_biologgersealvfx_js",
+      "community": 5,
+      "norm_label": "biologgersealvfx.js"
+    },
+    {
+      "label": "createBiologgerSeal()",
+      "file_type": "code",
+      "source_file": "src/components/3d/BiologgerSealVFX.js",
+      "source_location": "L12",
+      "id": "3d_biologgersealvfx_createbiologgerseal",
+      "community": 5,
+      "norm_label": "createbiologgerseal()"
+    },
+    {
+      "label": "CTDSondeVFX.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/CTDSondeVFX.js",
+      "source_location": "L1",
+      "id": "src_components_3d_ctdsondevfx_js",
+      "community": 2,
+      "norm_label": "ctdsondevfx.js"
+    },
+    {
+      "label": "createCTDSonde()",
+      "file_type": "code",
+      "source_file": "src/components/3d/CTDSondeVFX.js",
+      "source_location": "L12",
+      "id": "3d_ctdsondevfx_createctdsonde",
+      "community": 2,
+      "norm_label": "createctdsonde()"
+    },
+    {
+      "label": "GlacierIceVFX.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/GlacierIceVFX.js",
+      "source_location": "L1",
+      "id": "src_components_3d_glaciericevfx_js",
+      "community": 3,
+      "norm_label": "glaciericevfx.js"
+    },
+    {
+      "label": "createPolarGlaciers()",
+      "file_type": "code",
+      "source_file": "src/components/3d/GlacierIceVFX.js",
+      "source_location": "L10",
+      "id": "3d_glaciericevfx_createpolarglaciers",
+      "community": 3,
+      "norm_label": "createpolarglaciers()"
+    },
+    {
+      "label": "OceanVFX.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/OceanVFX.js",
+      "source_location": "L1",
+      "id": "src_components_3d_oceanvfx_js",
+      "community": 4,
+      "norm_label": "oceanvfx.js"
+    },
+    {
+      "label": "createOceanSurface()",
+      "file_type": "code",
+      "source_file": "src/components/3d/OceanVFX.js",
+      "source_location": "L19",
+      "id": "3d_oceanvfx_createoceansurface",
+      "community": 4,
+      "norm_label": "createoceansurface()"
+    },
+    {
+      "label": "PostProcessingVFX.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/PostProcessingVFX.js",
+      "source_location": "L1",
+      "id": "src_components_3d_postprocessingvfx_js",
+      "community": 0,
+      "norm_label": "postprocessingvfx.js"
+    },
+    {
+      "label": "setupPostProcessing()",
+      "file_type": "code",
+      "source_file": "src/components/3d/PostProcessingVFX.js",
+      "source_location": "L12",
+      "id": "3d_postprocessingvfx_setuppostprocessing",
+      "community": 0,
+      "norm_label": "setuppostprocessing()"
+    },
+    {
+      "label": "ProceduralTextures.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L1",
+      "id": "src_components_3d_proceduraltextures_js",
+      "community": 1,
+      "norm_label": "proceduraltextures.js"
+    },
+    {
+      "label": "generateHDPEBumpMap()",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L10",
+      "id": "3d_proceduraltextures_generatehdpebumpmap",
+      "community": 1,
+      "norm_label": "generatehdpebumpmap()"
+    },
+    {
+      "label": "generateBrushedMetalMap()",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L52",
+      "id": "3d_proceduraltextures_generatebrushedmetalmap",
+      "community": 2,
+      "norm_label": "generatebrushedmetalmap()"
+    },
+    {
+      "label": "generateIceFractureMap()",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L82",
+      "id": "3d_proceduraltextures_generateicefracturemap",
+      "community": 3,
+      "norm_label": "generateicefracturemap()"
+    },
+    {
+      "label": "generateSealSkinBumpMap()",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L119",
+      "id": "3d_proceduraltextures_generatesealskinbumpmap",
+      "community": 5,
+      "norm_label": "generatesealskinbumpmap()"
+    },
+    {
+      "label": "generateSolarCellTexture()",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L157",
+      "id": "3d_proceduraltextures_generatesolarcelltexture",
+      "community": 1,
+      "norm_label": "generatesolarcelltexture()"
+    },
+    {
+      "label": "generateWaterNormalMap()",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L199",
+      "id": "3d_proceduraltextures_generatewaternormalmap",
+      "community": 4,
+      "norm_label": "generatewaternormalmap()"
+    },
+    {
+      "label": "generatePCBTexture()",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L277",
+      "id": "3d_proceduraltextures_generatepcbtexture",
+      "community": 1,
+      "norm_label": "generatepcbtexture()"
+    },
+    {
+      "label": "generateHelipadTexture()",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L380",
+      "id": "3d_proceduraltextures_generatehelipadtexture",
+      "community": 2,
+      "norm_label": "generatehelipadtexture()"
+    },
+    {
+      "label": "generateOceanFoamMap()",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L428",
+      "id": "3d_proceduraltextures_generateoceanfoammap",
+      "community": 4,
+      "norm_label": "generateoceanfoammap()"
+    },
+    {
+      "label": "generateIndianFlagTexture()",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L488",
+      "id": "3d_proceduraltextures_generateindianflagtexture",
+      "community": 2,
+      "norm_label": "generateindianflagtexture()"
+    },
+    {
+      "label": "generateBenthicBiofoulingMap()",
+      "file_type": "code",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L551",
+      "id": "3d_proceduraltextures_generatebenthicbiofoulingmap",
+      "community": 1,
+      "norm_label": "generatebenthicbiofoulingmap()"
+    },
+    {
+      "label": "SeaIceFloesVFX.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/SeaIceFloesVFX.js",
+      "source_location": "L1",
+      "id": "src_components_3d_seaicefloesvfx_js",
+      "community": 3,
+      "norm_label": "seaicefloesvfx.js"
+    },
+    {
+      "label": "createSeaIceFloes()",
+      "file_type": "code",
+      "source_file": "src/components/3d/SeaIceFloesVFX.js",
+      "source_location": "L10",
+      "id": "3d_seaicefloesvfx_createseaicefloes",
+      "community": 3,
+      "norm_label": "createseaicefloes()"
+    },
+    {
+      "label": "SplashVFX.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/SplashVFX.js",
+      "source_location": "L1",
+      "id": "src_components_3d_splashvfx_js",
+      "community": 0,
+      "norm_label": "splashvfx.js"
+    },
+    {
+      "label": "createSplashSystem()",
+      "file_type": "code",
+      "source_file": "src/components/3d/SplashVFX.js",
+      "source_location": "L8",
+      "id": "3d_splashvfx_createsplashsystem",
+      "community": 0,
+      "norm_label": "createsplashsystem()"
+    },
+    {
+      "label": "UnderwaterVFX.js",
+      "file_type": "code",
+      "source_file": "src/components/3d/UnderwaterVFX.js",
+      "source_location": "L1",
+      "id": "src_components_3d_underwatervfx_js",
+      "community": 0,
+      "norm_label": "underwatervfx.js"
+    },
+    {
+      "label": "createUnderwaterVFX()",
+      "file_type": "code",
+      "source_file": "src/components/3d/UnderwaterVFX.js",
+      "source_location": "L11",
+      "id": "3d_underwatervfx_createunderwatervfx",
+      "community": 0,
+      "norm_label": "createunderwatervfx()"
+    },
+    {
+      "label": "VFXScene.jsx",
+      "file_type": "code",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L1",
+      "id": "src_components_3d_vfxscene_jsx",
+      "community": 0,
+      "norm_label": "vfxscene.jsx"
+    },
+    {
+      "label": "VFXScene()",
+      "file_type": "code",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L17",
+      "id": "3d_vfxscene_vfxscene",
+      "community": 0,
+      "norm_label": "vfxscene()"
+    },
+    {
+      "label": "ComponentDetailModal.jsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/ComponentDetailModal.jsx",
+      "source_location": "L1",
+      "id": "src_components_ui_componentdetailmodal_jsx",
+      "community": 7,
+      "norm_label": "componentdetailmodal.jsx"
+    },
+    {
+      "label": "ComponentDetailModal()",
+      "file_type": "code",
+      "source_file": "src/components/ui/ComponentDetailModal.jsx",
+      "source_location": "L5",
+      "id": "ui_componentdetailmodal_componentdetailmodal",
+      "community": 7,
+      "norm_label": "componentdetailmodal()"
+    },
+    {
+      "label": "TeamDetailsModal.jsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/TeamDetailsModal.jsx",
+      "source_location": "L1",
+      "id": "src_components_ui_teamdetailsmodal_jsx",
+      "community": 8,
+      "norm_label": "teamdetailsmodal.jsx"
+    },
+    {
+      "label": "TeamDetailsModal()",
+      "file_type": "code",
+      "source_file": "src/components/ui/TeamDetailsModal.jsx",
+      "source_location": "L4",
+      "id": "ui_teamdetailsmodal_teamdetailsmodal",
+      "community": 8,
+      "norm_label": "teamdetailsmodal()"
+    },
+    {
+      "label": "TopBar.jsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/TopBar.jsx",
+      "source_location": "L1",
+      "id": "src_components_ui_topbar_jsx",
+      "community": 9,
+      "norm_label": "topbar.jsx"
+    },
+    {
+      "label": "TopBar()",
+      "file_type": "code",
+      "source_file": "src/components/ui/TopBar.jsx",
+      "source_location": "L4",
+      "id": "ui_topbar_topbar",
+      "community": 9,
+      "norm_label": "topbar()"
+    },
+    {
+      "label": "TourPresentationOverlay.jsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/TourPresentationOverlay.jsx",
+      "source_location": "L1",
+      "id": "src_components_ui_tourpresentationoverlay_jsx",
+      "community": 10,
+      "norm_label": "tourpresentationoverlay.jsx"
+    },
+    {
+      "label": "TourPresentationOverlay()",
+      "file_type": "code",
+      "source_file": "src/components/ui/TourPresentationOverlay.jsx",
+      "source_location": "L4",
+      "id": "ui_tourpresentationoverlay_tourpresentationoverlay",
+      "community": 10,
+      "norm_label": "tourpresentationoverlay()"
+    },
+    {
+      "label": "UnifiedControlDeck.jsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/UnifiedControlDeck.jsx",
+      "source_location": "L1",
+      "id": "src_components_ui_unifiedcontroldeck_jsx",
+      "community": 11,
+      "norm_label": "unifiedcontroldeck.jsx"
+    },
+    {
+      "label": "UnifiedControlDeck()",
+      "file_type": "code",
+      "source_file": "src/components/ui/UnifiedControlDeck.jsx",
+      "source_location": "L9",
+      "id": "ui_unifiedcontroldeck_unifiedcontroldeck",
+      "community": 11,
+      "norm_label": "unifiedcontroldeck()"
+    },
+    {
+      "label": "config.js",
+      "file_type": "code",
+      "source_file": "src/constants/config.js",
+      "source_location": "L1",
+      "id": "src_constants_config_js",
+      "community": 14,
+      "norm_label": "config.js"
+    },
+    {
+      "label": "hardwareSpecs.js",
+      "file_type": "code",
+      "source_file": "src/constants/hardwareSpecs.js",
+      "source_location": "L1",
+      "id": "src_constants_hardwarespecs_js",
+      "community": 15,
+      "norm_label": "hardwarespecs.js"
+    },
+    {
+      "label": "polarRegions.js",
+      "file_type": "code",
+      "source_file": "src/constants/polarRegions.js",
+      "source_location": "L1",
+      "id": "src_constants_polarregions_js",
+      "community": 16,
+      "norm_label": "polarregions.js"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_app_app"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/AtmosphereVFX.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_atmospherevfx_js",
+      "target": "3d_atmospherevfx_createatmosphere"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_atmospherevfx_createatmosphere"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_autonomousbuoyvfx_js",
+      "target": "3d_proceduraltextures_generatehdpebumpmap"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_autonomousbuoyvfx_js",
+      "target": "3d_proceduraltextures_generatesolarcelltexture"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_autonomousbuoyvfx_js",
+      "target": "3d_proceduraltextures_generatebrushedmetalmap"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_autonomousbuoyvfx_js",
+      "target": "3d_proceduraltextures_generatepcbtexture"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_autonomousbuoyvfx_js",
+      "target": "3d_proceduraltextures_generatebenthicbiofoulingmap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L16",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_autonomousbuoyvfx_js",
+      "target": "3d_autonomousbuoyvfx_createautonomousbuoy"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_autonomousbuoyvfx_createautonomousbuoy"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "3d_autonomousbuoyvfx_createautonomousbuoy",
+      "target": "3d_proceduraltextures_generatehdpebumpmap"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "3d_autonomousbuoyvfx_createautonomousbuoy",
+      "target": "3d_proceduraltextures_generatesolarcelltexture"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "3d_autonomousbuoyvfx_createautonomousbuoy",
+      "target": "3d_proceduraltextures_generatebrushedmetalmap"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "3d_autonomousbuoyvfx_createautonomousbuoy",
+      "target": "3d_proceduraltextures_generatepcbtexture"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/AutonomousBuoyVFX.js",
+      "source_location": "L397",
+      "weight": 1.0,
+      "source": "3d_autonomousbuoyvfx_createautonomousbuoy",
+      "target": "3d_proceduraltextures_generatebenthicbiofoulingmap"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/BharatiStationVFX.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_bharatistationvfx_js",
+      "target": "3d_proceduraltextures_generateindianflagtexture"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/BharatiStationVFX.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_bharatistationvfx_js",
+      "target": "3d_proceduraltextures_generatehelipadtexture"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/BharatiStationVFX.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_bharatistationvfx_js",
+      "target": "3d_proceduraltextures_generatebrushedmetalmap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/BharatiStationVFX.js",
+      "source_location": "L16",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_bharatistationvfx_js",
+      "target": "3d_bharatistationvfx_createbharatistation"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_bharatistationvfx_createbharatistation"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/BharatiStationVFX.js",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "3d_bharatistationvfx_createbharatistation",
+      "target": "3d_proceduraltextures_generateindianflagtexture"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/BharatiStationVFX.js",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "3d_bharatistationvfx_createbharatistation",
+      "target": "3d_proceduraltextures_generatehelipadtexture"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/BharatiStationVFX.js",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "3d_bharatistationvfx_createbharatistation",
+      "target": "3d_proceduraltextures_generatebrushedmetalmap"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/BiologgerSealVFX.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_biologgersealvfx_js",
+      "target": "3d_proceduraltextures_generatesealskinbumpmap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/BiologgerSealVFX.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_biologgersealvfx_js",
+      "target": "3d_biologgersealvfx_createbiologgerseal"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_biologgersealvfx_createbiologgerseal"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/BiologgerSealVFX.js",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "3d_biologgersealvfx_createbiologgerseal",
+      "target": "3d_proceduraltextures_generatesealskinbumpmap"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/CTDSondeVFX.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_ctdsondevfx_js",
+      "target": "3d_proceduraltextures_generatebrushedmetalmap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/CTDSondeVFX.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_ctdsondevfx_js",
+      "target": "3d_ctdsondevfx_createctdsonde"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_ctdsondevfx_createctdsonde"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/CTDSondeVFX.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "3d_ctdsondevfx_createctdsonde",
+      "target": "3d_proceduraltextures_generatebrushedmetalmap"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/GlacierIceVFX.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_glaciericevfx_js",
+      "target": "3d_proceduraltextures_generateicefracturemap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/GlacierIceVFX.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_glaciericevfx_js",
+      "target": "3d_glaciericevfx_createpolarglaciers"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_glaciericevfx_createpolarglaciers"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/GlacierIceVFX.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "3d_glaciericevfx_createpolarglaciers",
+      "target": "3d_proceduraltextures_generateicefracturemap"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/OceanVFX.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_oceanvfx_js",
+      "target": "3d_proceduraltextures_generatewaternormalmap"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/OceanVFX.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_oceanvfx_js",
+      "target": "3d_proceduraltextures_generateoceanfoammap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/OceanVFX.js",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_oceanvfx_js",
+      "target": "3d_oceanvfx_createoceansurface"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_oceanvfx_createoceansurface"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/OceanVFX.js",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "3d_oceanvfx_createoceansurface",
+      "target": "3d_proceduraltextures_generatewaternormalmap"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/OceanVFX.js",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "3d_oceanvfx_createoceansurface",
+      "target": "3d_proceduraltextures_generateoceanfoammap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/PostProcessingVFX.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_postprocessingvfx_js",
+      "target": "3d_postprocessingvfx_setuppostprocessing"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_postprocessingvfx_setuppostprocessing"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_proceduraltextures_js",
+      "target": "3d_proceduraltextures_generatehdpebumpmap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L52",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_proceduraltextures_js",
+      "target": "3d_proceduraltextures_generatebrushedmetalmap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L82",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_proceduraltextures_js",
+      "target": "3d_proceduraltextures_generateicefracturemap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L119",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_proceduraltextures_js",
+      "target": "3d_proceduraltextures_generatesealskinbumpmap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L157",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_proceduraltextures_js",
+      "target": "3d_proceduraltextures_generatesolarcelltexture"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L199",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_proceduraltextures_js",
+      "target": "3d_proceduraltextures_generatewaternormalmap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L277",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_proceduraltextures_js",
+      "target": "3d_proceduraltextures_generatepcbtexture"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L380",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_proceduraltextures_js",
+      "target": "3d_proceduraltextures_generatehelipadtexture"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L428",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_proceduraltextures_js",
+      "target": "3d_proceduraltextures_generateoceanfoammap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L488",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_proceduraltextures_js",
+      "target": "3d_proceduraltextures_generateindianflagtexture"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/ProceduralTextures.js",
+      "source_location": "L551",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_proceduraltextures_js",
+      "target": "3d_proceduraltextures_generatebenthicbiofoulingmap"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/SeaIceFloesVFX.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_seaicefloesvfx_js",
+      "target": "3d_proceduraltextures_generateicefracturemap"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/components/3d/SeaIceFloesVFX.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "3d_seaicefloesvfx_createseaicefloes",
+      "target": "3d_proceduraltextures_generateicefracturemap"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/SeaIceFloesVFX.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_seaicefloesvfx_js",
+      "target": "3d_seaicefloesvfx_createseaicefloes"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_seaicefloesvfx_createseaicefloes"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/SplashVFX.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_splashvfx_js",
+      "target": "3d_splashvfx_createsplashsystem"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_splashvfx_createsplashsystem"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/UnderwaterVFX.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_underwatervfx_js",
+      "target": "3d_underwatervfx_createunderwatervfx"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_underwatervfx_createunderwatervfx"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/3d/VFXScene.jsx",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_3d_vfxscene_jsx",
+      "target": "3d_vfxscene_vfxscene"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/ComponentDetailModal.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_ui_componentdetailmodal_jsx",
+      "target": "ui_componentdetailmodal_componentdetailmodal"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/TeamDetailsModal.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_ui_teamdetailsmodal_jsx",
+      "target": "ui_teamdetailsmodal_teamdetailsmodal"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/TopBar.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_ui_topbar_jsx",
+      "target": "ui_topbar_topbar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/TourPresentationOverlay.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_ui_tourpresentationoverlay_jsx",
+      "target": "ui_tourpresentationoverlay_tourpresentationoverlay"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/UnifiedControlDeck.jsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_components_ui_unifiedcontroldeck_jsx",
+      "target": "ui_unifiedcontroldeck_unifiedcontroldeck"
+    }
+  ],
+  "hyperedges": []
+}
